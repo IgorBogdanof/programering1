@@ -26,6 +26,17 @@ public class läxav36 {
 		System.out.println("vad är ditt telefonnummer?");
 		String telefonnummer = input.nextLine();
 		
+		System.out.println(namn);
+		System.out.println(ålder);
+		System.out.println(adress);
+		System.out.println(postnummer);
+		System.out.println(stad);
+		System.out.println(telefonnummer);
+		
+		System.out.println("infromation");
+		System.out.println(namn + " " + ålder + " " + adress + " " + postnummer + " " + stad + " " + telefonnummer + " " );
+		
+	
 		
 	}
 }
