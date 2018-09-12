@@ -13,5 +13,19 @@ public class läxav36 {
 		
 		System.out.println("Hur gammal är du?");
 		String ålder = input.nextLine();
+		
+		System.out.println("vart bor du?");
+		String adress = input.nextLine();
+		
+		System.out.println("vilket postnummer har du?");
+		String postnummer = input.nextLine();
+		
+		System.out.println("i vilken stad bor du");
+		String stad = input.nextLine();
+		
+		System.out.println("vad är ditt telefonnummer?");
+		String telefonnummer = input.nextLine();
+		
+		
 	}
 }
